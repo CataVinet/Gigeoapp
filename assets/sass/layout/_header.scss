@@ -1,0 +1,26 @@
+header {
+	color: $white;
+	height: 100px;
+	background-image: url('../img/image-banner.png');
+	background-repeat: none;
+    background-size: cover; 
+    background-position: center;
+}
+
+
+
+
+//INCLUIR CON INCLUDE EN LOS MIXINS
+
+@media (min-width: 576px) {
+header {
+	color: $white;
+	height: 250px;
+	background-image: url('../img/image-banner.png');
+	background-repeat: none;
+    background-size: cover;
+
+}
+}
+
+

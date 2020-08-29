@@ -1,0 +1,24 @@
+.navigation__logo {
+	color: $darkgreen;
+	font-size: $large;
+	font-weight: $semi-bold;
+	font-family: $poppins;
+}
+
+.navigation__logo:hover {
+	color: $gray;
+	font-size: $large;
+	font-weight: $semi-bold;
+	font-family: $poppins;
+}
+
+
+.navigation__icon i {
+	color: $darkgreen;
+	margin: 0 2px 0 2px;
+}
+
+.navigation__icon i:hover {
+	color: $gray;
+	margin: 0 2px 0 2px;
+}
